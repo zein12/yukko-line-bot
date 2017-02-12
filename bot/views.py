@@ -42,7 +42,7 @@ def post_text(reply_token, text):
 def post_carousel(reply_token):
     header = {
         "Content-Type": "application/json",
-        "Authorization": "Bearer rrlbmMP4gH0kCdQFinWHscLBKEwKWNVITHjEBjnC+x3BMBa3QC2P+s5QjvK4LDJ/sF+IYKpGL/cu9GZAisaJSdvU7fVkapN7ynV/dg3b/z8E5IrfTWIa0ovmrlUA4L4NLpXmcRzgeoIWcWHJ0ZrEFwdB04t89/1O/w1cDnyilFU="
+        "Authorization": "Bearer 3/cEBpOR0mjAMUtnHKrSrx3N6FnMVNPYfXBIwMO6HNGaljxuxTxZz2fGrmZYFwqfV3dvAWMa7FEGrmOONfbZ7or1wxYgpjbtFMS0Mkk+RftjvYSrUpThxAHGiivf2M662z2zM5P8BSKby0dJiBG3GQdB04t89/1O/w1cDnyilFU="
 
     }
     payload = {
